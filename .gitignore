@@ -1,0 +1,15 @@
+# Data files
+data/
+*.csv
+*.pkl
+
+# Model artifacts
+*.joblib
+results/**.joblib
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
