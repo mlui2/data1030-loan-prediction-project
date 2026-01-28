@@ -1,6 +1,6 @@
 # LendingClub Loan Default Prediction
 
-This project analyzes and predicts loan default risk using LendingClub loan data, focusing exclusively on pre-origination borrower and loan characteristics. Five machine learning models are evaluated and compared, with an emphasis on realistic deployment.t
+This project analyzes and predicts loan default risk using LendingClub loan data, focusing exclusively on pre-origination borrower and loan characteristics. Five machine learning models are evaluated and compared, with an emphasis on realistic deployment.
 
 ## Data
 This project uses the LendingClub loan dataset (2007–2018) on Kaggle: https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv/data
@@ -20,4 +20,5 @@ The cleaned dataset can be reproduced by running `01_data_cleaning.ipynb`.
 
 ## Environment
 - Python 3.13.5 
+
 
